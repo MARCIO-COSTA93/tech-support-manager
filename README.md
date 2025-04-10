@@ -3,7 +3,7 @@ Sistema para gerenciamento de chamados técnicos, desenvolvido em Java com Sprin
 
 # Tech Support Manager
 
-Tech Support Manager : é um sistema de gerenciamento de tickets de suporte técnico. O objetivo deste projeto é fornecer uma plataforma onde os usuários podem criar, gerenciar e acompanhar os tickets de suporte, facilitando a comunicação entre clientes e a equipe de suporte.
+Tech Support Manager : é um sistema de gerenciamento de tickets de suporte técnico, tem como objetivo deste projeto é fornecer uma plataforma onde os usuários podem criar, gerenciar e acompanhar os tickets de suporte, facilitando a comunicação entre clientes e a equipe de suporte.
 
 ## Tecnologias Usadas
 
