@@ -7,10 +7,10 @@ Tech Support Manager : é um sistema de gerenciamento de tickets de suporte téc
 
 ## Tecnologias Usadas
 
-- Java : Linguagem principal para o desenvolvimento do backend.
-- Spring Boot: Framework para a criação de aplicações Java.
-- Maven: Ferramenta para gerenciamento de dependências e build.
-- Thymeleaf: Template engine para renderização de páginas HTML.
+- **Java** : Linguagem principal para o desenvolvimento do backend.
+- **Spring Boot**: Framework para a criação de aplicações Java.
+- **Maven**: Ferramenta para gerenciamento de dependências e build.
+- **Thymeleaf**: Template engine para renderização de páginas HTML.
 - **Bootstrap**: Framework para design responsivo.
 
 ## Funcionalidades
